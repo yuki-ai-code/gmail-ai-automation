@@ -38,11 +38,13 @@ Gmail Trigger → AI Processing → Notification / Automation
 
 ### Gmail Trigger Workflow
 
-(画像をここに追加)
+<img width="1733" height="837" alt="Discord ポートフォリオ 3png" src="https://github.com/user-attachments/assets/ad66859d-a04f-41c5-9e08-ffd51e405dc0" />
+
 
 ### Gmail Data Retrieval
 
-(画像をここに追加)
+<img width="533" height="457" alt="g-mail-output2" src="https://github.com/user-attachments/assets/d2dbaabb-43aa-4133-ae8e-79a08e8f76bd" />
+
 
 ---
 
