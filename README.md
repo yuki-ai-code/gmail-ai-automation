@@ -46,6 +46,10 @@ Gmail Trigger → AI Processing → Notification / Automation
 <img width="533" height="457" alt="g-mail-output2" src="https://github.com/user-attachments/assets/d2dbaabb-43aa-4133-ae8e-79a08e8f76bd" />
 
 
+### Discord AI Notification
+
+<img width="1152" height="169" alt="discord-notification-result3" src="https://github.com/user-attachments/assets/76def839-a803-4f6e-a4eb-9195d31ee11e" />
+
 ---
 
 ## Future Improvements
