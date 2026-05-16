@@ -61,5 +61,5 @@ Gmail Trigger → AI Processing → Notification / Automation
 - Auto reply generation
 - Label classification
 - Google Sheets integration
-- Gmail AI summarization
+
 
