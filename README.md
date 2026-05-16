@@ -57,7 +57,7 @@ Gmail Trigger → AI Processing → Notification / Automation
 ## Future Improvements
 
 
-- Discord notifications
+
 - Auto reply generation
 - Label classification
 - Google Sheets integration
