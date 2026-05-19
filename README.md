@@ -1,26 +1,18 @@
 # Gmail AI Automation
 
 ## Overview
+AI-powered Gmail automation workflow built with n8n, Gmail API, OpenAI API, Google Sheets, and Discord Webhook.
 
-This workflow automatically retrieves Gmail messages, summarizes them using OpenAI API, and sends notifications to Discord.
-
-It helps reduce time spent checking emails and improves information sharing for teams.
-
-
-The workflow retrieves Gmail messages and processes them for AI-based automation.
-
----
+This workflow automatically retrieves new Gmail messages, summarizes them using OpenAI, stores the processed data in Google Sheets, and sends AI-generated notifications to Discord.
 
 ## Technologies Used
-
 - n8n
 - Gmail API
 - OAuth2
 - OpenAI API
-- JSON
 - Google Sheets API
 - Discord Webhook
----
+- JSON
 
 ## Workflow Structure
 
@@ -32,43 +24,29 @@ Google Sheets Storage
 ↓  
 Discord Notification
 
----
-
 ## Features
-
 - Automatically retrieves new Gmail messages
 - Summarizes emails using OpenAI API
+- Stores email summary data in Google Sheets
 - Sends AI summaries to Discord
 - Reduces manual email checking
 - Improves team information sharing
 
----
-
 ## Screenshots
 
 ### Full Workflow
-
-<img width="1633" height="814" alt="Gmail AI Summary to Google Sheets" src="https://github.com/user-attachments/assets/93c8429c-2767-4690-baa5-e66e1e54c784" />
+![Full Workflow](screenshots/gmail-full-workflow.png)
 
 ### Gmail Trigger Workflow
-
-<img width="1687" height="877" alt="Gmail Trigger Workflow" src="https://github.com/user-attachments/assets/3d51b510-8194-4a93-8a40-1c7bef26996b" />
-
-
-
-
+![Gmail Trigger Workflow](screenshots/gmail-trigger-workflow.png)
 
 ### Gmail Data Retrieval
-
-<img width="533" height="457" alt="g-mail-output2" src="https://github.com/user-attachments/assets/d2dbaabb-43aa-4133-ae8e-79a08e8f76bd" />
-
+![Gmail Data Retrieval](screenshots/gmail-data-retrieval.png)
 
 ### Discord AI Notification
-
-<img width="1152" height="169" alt="discord-notification-result3" src="https://github.com/user-attachments/assets/76def839-a803-4f6e-a4eb-9195d31ee11e" />
+![Discord AI Notification](screenshots/gmail-discord-notification.png)
 
 ## Use Cases
-
 - Customer inquiry management
 - AI-powered email summaries
 - Internal team notifications
@@ -76,13 +54,9 @@ Discord Notification
 - Organizing important information automatically
 
 ## Future Improvements
-
-
 - Automatic priority classification
 - AI-generated reply suggestions
-- CRM / Slack integration
-- Advanced email categorization
+- CRM integration
 - Slack integration
+- Advanced email categorization
 - AI priority detection
-- Automatic categorization
-
