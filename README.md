@@ -1,4 +1,4 @@
-# AI Inquiry Classification System
+# smart-email-routing-workflow
 
 ## Overview
 AI-powered Gmail automation workflow built with n8n, Gmail API, OpenAI API, Google Sheets, and Discord Webhook.
