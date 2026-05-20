@@ -1,4 +1,4 @@
-# Gmail AI Automation
+# AI Inquiry Classification System
 
 ## Overview
 AI-powered Gmail automation workflow built with n8n, Gmail API, OpenAI API, Google Sheets, and Discord Webhook.
